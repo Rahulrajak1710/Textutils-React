@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.name-blank{
+  color: pink;
+  background-color: #282c34;
+}
